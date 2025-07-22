@@ -56,7 +56,7 @@ A React web application that allows users to search for any artist and view thei
    yarn dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+4. Open the localHost link given in your browser.
 
 ## Usage
 
