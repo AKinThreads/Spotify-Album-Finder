@@ -36,7 +36,7 @@ A React web application that allows users to search for any artist and view thei
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/spotify-album-finder.git
+   git clone https://github.com/AKinThreads/spotify-album-finder.git
    cd spotify-album-finder
    ```
 
